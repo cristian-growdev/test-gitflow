@@ -1,0 +1,1 @@
+const cristian = 'mentor';
